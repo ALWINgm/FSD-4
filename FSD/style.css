@@ -1,0 +1,9 @@
+H3{
+    text-align: center;
+}
+.box{
+    text-align: right;
+}
+#nir{
+    counter-reset: green;
+}
